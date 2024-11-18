@@ -27160,7 +27160,7 @@ i4:function i4(a){this.a=a},
 abj:function abj(a){this.a=a},
 aQj(a){var s,r,q,p=null,o=a.a
 o.toString
-s=A.hq(o,"https://muhammadmnyer.github.io","")
+s=A.hq(o,"https://muhammadmnyer.github.io/#","")
 r=A.b5("screen")
 if($.a1d.bk().gfM().c==null&&B.d.bV(s,"/")){r.scl(A.aH5())
 return A.agu(new A.a2m(r),B.ba,B.Ov,t.z)}if(s==="/"){r.scl(new A.yG(A.b([A.aHp(A.aC_(B.S,"home",$.aDZ(),B.k9,A.aDH(),A.b1i(),p,!1,p,B.AA),new A.a2n()),B.Oc,A.aHp(A.aC_(B.S,"profile",$.aE_(),B.k9,A.aDH(),A.b1k(),p,!1,p,B.AA),new A.a2o())],t.p),p))
